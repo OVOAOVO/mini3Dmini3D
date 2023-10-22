@@ -1,0 +1,8 @@
+﻿  mini3d.c
+D:\mini3d\mini3d.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\mini3d\mini3d.c(649,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\mini3d\mini3d.c(650,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\mini3d\mini3d.c(790,20): warning C4133: “函数”: 从“transform_t *”到“const vector_t *”的类型不兼容
+D:\mini3d\mini3d.c(791,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\mini3d\mini3d.c(907,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Mini3D.vcxproj -> D:\mini3d\Debug\Mini3D.exe
